@@ -1,0 +1,31 @@
+The notebooks are created in google colabs and are divided by tasks. 
+
+First task: Using datasets to support your hypothesis
+
+The first notebook is directed towards the information from NCBI Geo Ombnibus and include:
+
+1. Dowloading the datasets
+
+2. Cleaning information on Excel
+
+3. Analyzing data in python and producing graphs
+
+Second task: Using web-based software to interpret data
+
+1. What is IPA?
+
+2. Basis of designing pathways on IPA
+
+3. Dowloading information of IPA
+
+4. Analyzing information in python
+
+Task three: Assessing possible implications of your hypothesis
+
+1. Disease focus dataset
+
+2. Downloading data
+
+3. Filtering data
+
+4. Analyzing information in python
