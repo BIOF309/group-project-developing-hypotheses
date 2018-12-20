@@ -4,7 +4,7 @@ First task: Using datasets to support your hypothesis
 
 The first notebook is directed towards the information from NCBI Geo Ombnibus and include:
 
-1. Dowloading the datasets
+1. Downloading the datasets
 
 2. Cleaning information on Excel
 
@@ -16,7 +16,7 @@ Second task: Using web-based software to interpret data
 
 2. Basis of designing pathways on IPA
 
-3. Dowloading information of IPA
+3. Downloading information of IPA
 
 4. Analyzing information in python
 
