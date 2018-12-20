@@ -1,0 +1,9 @@
+#References:
+
+1.Cleaning data from cvs: https://github.com/johnrandazzo/surv_nflrb
+
+2.Survival graphs: https://lifelines.readthedocs.io/en/latest/Quickstart.html#kaplan-meier-and-nelson-aalen
+
+3.Bar graph and error bars -https://pythonforundergradengineers.com/python-matplotlib-error-bars.html
+
+4.Venn diagram-https://www.badgrammargoodsyntax.com/compbio/2017/10/29/compbio-012-making-venn-diagrams-the-right-way-using-python
