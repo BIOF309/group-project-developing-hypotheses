@@ -1,0 +1,18 @@
+© 2000-2018 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+MMP14	protein-protein interactions	TIMP2		
+MMP2	protein-protein interactions	TIMP2		
+TIMP2	activation	MMP2		
+TIMP2	activation	MMP9		
+TIMP2	inhibition	ADAM17		
+TIMP2	inhibition	MMP14		
+TIMP2	inhibition	MMP2		
+TIMP2	inhibition	MMP9		
+TIMP2	protein-protein interactions	ADAM17		
+TIMP2	protein-protein interactions	ITGA3		
+TIMP2	protein-protein interactions	ITGB1		
+TIMP2	protein-protein interactions	MMP14		
+TIMP2	protein-protein interactions	MMP2		
+TIMP2	protein-protein interactions	MMP9		
+TIMP2	protein-protein interactions	RAB3A		
+TIMP3	protein-protein interactions	TIMP2		

@@ -1,0 +1,4 @@
+© 2000-2018 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)	
+ITGA5	protein-protein interactions	TIMP2		
+TIMP2	protein-protein interactions	MMP7		
